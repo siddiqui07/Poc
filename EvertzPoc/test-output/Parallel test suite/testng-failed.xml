@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [Parallel test suite]" parallel="tests">
+  <test name="LoginAndLogout(failed)" parallel="tests">
+    <classes>
+      <class name="com.yash.poc.executionengine.SignUp">
+        <methods>
+          <include name="validSingup"/>
+          <include name="inValidSingup"/>
+        </methods>
+      </class> <!-- com.yash.poc.executionengine.SignUp -->
+      <class name="com.yash.poc.executionengine.AddToWishList">
+        <methods>
+          <include name="addcourcetowishlist"/>
+        </methods>
+      </class> <!-- com.yash.poc.executionengine.AddToWishList -->
+      <class name="com.yash.poc.executionengine.LoginandLogout">
+        <methods>
+          <include name="logoutVerification"/>
+          <include name="udemyValidUserSigninVerification"/>
+        </methods>
+      </class> <!-- com.yash.poc.executionengine.LoginandLogout -->
+    </classes>
+  </test> <!-- LoginAndLogout(failed) -->
+</suite> <!-- Failed suite [Parallel test suite] -->

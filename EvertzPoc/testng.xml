@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="EvertzPOC">
+ 
+ 
+ 
+  <test name="SignUp" preserve-order="false">
+    <classes>
+      <class name="com.yash.poc.executionengine.SignUp"/> 
+      <class name="com.yash.poc.executionengine.LoginAndLogout"/>  
+      <class name="com.yash.poc.executionengine.AddCourseToWishList"/>
+       <class name="com.yash.poc.executionengine.AddCourseToCart"/>
+    </classes>
+  </test>
+
+  
+  
+</suite>
+
+

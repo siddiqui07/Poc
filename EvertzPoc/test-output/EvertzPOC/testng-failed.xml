@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [EvertzPOC]">
+  <test name="SignUp(failed)">
+    <classes>
+      <class name="com.yash.poc.executionengine.SignUp">
+        <methods>
+          <include name="validSingUp"/>
+        </methods>
+      </class> <!-- com.yash.poc.executionengine.SignUp -->
+    </classes>
+  </test> <!-- SignUp(failed) -->
+</suite> <!-- Failed suite [EvertzPOC] -->

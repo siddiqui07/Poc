@@ -1,0 +1,963 @@
+2017-11-17 19:30:48,009 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case initiated
+2017-11-17 19:30:48,394 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:30:59,826 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:31:00,946 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:31:01,061 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-17 19:31:01,093 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:31:07,922 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:31:09,052 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:31:09,131 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 inValidSingup Initiated
+2017-11-17 19:31:09,158 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:31:21,467 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:31:22,594 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:31:22,652 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Initiated
+2017-11-17 19:31:22,674 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:31:30,367 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:31:38,473 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case initiated
+2017-11-17 19:31:38,855 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:31:44,761 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:31:45,882 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:31:46,789 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:31:51,790 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:31:52,064 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:31:52,233 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:31:52,358 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:31:57,359 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:31:57,598 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:31:59,117 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:32:04,117 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:32:04,177 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-17 19:32:04,196 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:32:14,273 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:32:15,411 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:32:15,565 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:32:20,566 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:32:20,801 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:32:20,971 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:32:21,079 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:32:26,079 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:32:26,265 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:32:27,732 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:32:32,733 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:32:36,560 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:32:41,561 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:32:42,818 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:32:47,820 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:32:48,172 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 19:32:53,172 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:32:53,233 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 inValidSingup Initiated
+2017-11-17 19:32:53,251 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:33:03,079 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:33:04,202 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:33:04,362 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:33:09,363 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:33:09,496 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:33:09,729 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:33:09,854 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:33:09,971 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:33:15,013 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:33:15,397 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 19:33:20,398 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:33:20,485 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-17 19:33:21,897 [main] INFO com.yash.poc.utils.UdemyReusables - Page Refreshed
+2017-11-17 19:33:26,897 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:33:26,897 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 InvalidSignup Initiated
+2017-11-17 19:33:26,901 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Initiated
+2017-11-17 19:33:26,912 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:33:36,542 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:33:37,663 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:33:37,814 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:33:42,815 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:33:43,021 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:33:43,139 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:33:43,257 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:33:48,257 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:33:48,309 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-17 19:33:53,315 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:33:53,700 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 19:33:55,013 [main] INFO com.yash.poc.utils.UdemyReusables - Page Refreshed
+2017-11-17 19:33:55,014 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Ended
+2017-11-17 19:33:55,015 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case2 validSingup Initiated
+2017-11-17 19:33:55,123 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:34:00,124 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:34:00,254 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:34:00,438 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:34:00,556 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:34:00,667 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:34:05,667 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:34:06,028 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 19:34:06,071 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case2 udemyValidUserSigninVerification Initiated
+2017-11-17 19:34:07,381 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:34:07,384 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:34:07,934 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:34:12,935 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:34:13,184 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:34:13,320 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:34:13,424 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:34:18,424 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:34:18,476 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-17 19:34:23,481 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:34:23,930 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 19:34:23,930 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case2 udemyInvalidUserSigninVerification Ended
+2017-11-17 19:34:23,932 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case3 logoutVerification Initiated
+2017-11-17 19:34:31,523 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-17 19:34:36,524 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:34:36,828 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 19:34:36,881 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-17 19:34:37,556 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-17 19:34:37,557 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case3 logoutVerification Ended
+2017-11-17 19:40:05,293 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 inValidSingup Initiated
+2017-11-17 19:40:05,668 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:40:29,368 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:40:30,497 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:40:32,478 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case2 validSingup Initiated
+2017-11-17 19:40:32,544 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case3 logoutVerification Initiated
+2017-11-17 19:40:32,576 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Initiated
+2017-11-17 19:40:32,609 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:40:35,317 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:40:54,731 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 inValidSingup Initiated
+2017-11-17 19:40:55,114 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:41:05,761 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:41:06,886 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:41:07,091 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:41:12,091 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:41:12,280 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:41:12,528 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:41:12,677 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:41:12,806 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:41:17,808 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:41:18,205 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 19:41:23,205 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:41:23,270 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-17 19:41:24,456 [main] INFO com.yash.poc.utils.UdemyReusables - Page Refreshed
+2017-11-17 19:41:29,456 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:41:29,457 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 InvalidSignup Initiated
+2017-11-17 19:41:29,461 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case2 validSingup Initiated
+2017-11-17 19:41:29,575 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:41:34,575 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:41:34,715 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:41:34,912 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:41:35,031 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:41:35,151 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:41:40,151 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:41:40,509 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 19:41:40,560 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case3 logoutVerification Initiated
+2017-11-17 19:41:40,578 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Initiated
+2017-11-17 19:41:40,592 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:41:51,379 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:41:52,508 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:41:52,665 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:41:57,665 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:41:57,891 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:41:58,026 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:41:58,140 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:42:03,140 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:42:03,194 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-17 19:42:08,200 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:42:08,578 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 19:42:09,725 [main] INFO com.yash.poc.utils.UdemyReusables - Page Refreshed
+2017-11-17 19:42:09,726 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Ended
+2017-11-17 19:42:09,727 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case2 udemyValidUserSigninVerification Initiated
+2017-11-17 19:42:11,120 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:42:11,124 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:42:11,464 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case initiated
+2017-11-17 19:42:11,477 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:42:21,636 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:42:22,762 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:42:22,923 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:42:27,924 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:42:28,150 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:42:28,297 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:42:28,409 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:42:33,410 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:42:33,991 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:42:35,258 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:42:40,258 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:42:43,367 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:42:48,368 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:42:48,491 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:42:53,491 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:42:53,825 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 19:42:58,504 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-17 19:42:59,161 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-17 19:42:59,162 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case Ended
+2017-11-17 19:42:59,165 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-17 19:42:59,176 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:43:08,460 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:43:09,583 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:43:09,746 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:43:14,746 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:43:14,982 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:43:15,118 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:43:15,220 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:43:20,220 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:43:20,405 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 19:43:22,129 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:43:27,130 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:43:28,757 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:43:33,757 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:43:33,869 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 19:43:38,870 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:43:39,231 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 19:43:44,232 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 19:43:44,302 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-17 19:43:45,594 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-17 19:43:46,241 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-17 19:43:46,242 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case Completed
+2017-11-17 19:57:31,906 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-17 19:57:32,294 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:57:39,525 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:57:40,657 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:59:49,068 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-17 19:59:49,441 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 19:59:55,346 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 19:59:56,467 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 19:59:57,387 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 20:00:02,387 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 20:00:02,616 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 20:00:02,783 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 20:00:02,908 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 20:00:07,909 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 20:00:08,093 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 20:00:09,427 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 20:00:14,428 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 21:51:31,871 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-17 21:51:32,252 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 21:51:43,602 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 21:51:44,729 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 21:52:19,791 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-17 21:52:20,184 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 21:52:26,147 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 21:52:27,268 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 21:52:28,123 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 21:52:33,124 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 21:52:33,385 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 21:52:33,551 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 21:52:33,695 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 21:52:38,695 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 21:52:39,036 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 21:52:39,171 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 21:52:44,172 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 21:52:54,691 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 21:52:59,693 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 21:52:59,823 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 21:53:04,824 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 21:53:05,272 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 21:53:10,273 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 21:53:10,350 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-17 21:53:11,811 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-17 21:53:12,470 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-17 21:53:12,470 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case Completed
+2017-11-17 22:57:48,801 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case initiated
+2017-11-17 22:57:49,186 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 22:58:18,402 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 22:58:19,531 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 22:58:19,721 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 22:58:24,722 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 22:58:24,991 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 22:58:25,174 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 22:58:25,339 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 22:58:30,340 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 22:58:30,514 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 22:58:32,193 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 22:58:37,194 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 22:59:55,731 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case initiated
+2017-11-17 22:59:56,119 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 23:00:02,234 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 23:00:03,360 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 23:00:04,470 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:00:09,472 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:00:09,690 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:00:09,846 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:00:09,972 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:00:14,972 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:00:15,193 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:00:16,728 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:00:21,729 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:06:54,041 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-17 23:06:54,426 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 23:07:22,352 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 23:07:23,482 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 23:07:23,672 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:07:28,672 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:07:28,923 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:07:29,063 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:07:29,200 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:07:34,201 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:07:34,367 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:07:36,071 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:07:41,072 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:09:59,074 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-17 23:09:59,455 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 23:10:29,581 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 23:10:30,711 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 23:10:30,916 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:10:35,916 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:10:36,158 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:10:36,307 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:10:36,437 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:10:41,437 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:10:41,656 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:10:43,370 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:10:48,370 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:12:37,515 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-17 23:12:37,939 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 23:12:43,685 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 23:12:44,806 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 23:12:46,053 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:12:51,054 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:12:51,291 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:12:51,471 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:12:51,606 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:12:56,607 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:12:56,820 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:12:58,481 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:13:03,482 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:13:12,600 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:13:17,602 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:13:17,722 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:13:22,724 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:13:23,146 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 23:13:28,146 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:13:28,217 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-17 23:13:29,697 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-17 23:13:30,349 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-17 23:13:30,350 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case Completed
+2017-11-17 23:14:05,519 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case initiated
+2017-11-17 23:14:05,904 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 23:14:34,763 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 23:14:35,893 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 23:14:36,117 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:14:41,117 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:14:41,434 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:14:41,612 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:14:41,757 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:14:46,759 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:14:46,999 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:14:47,168 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:14:52,169 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:15:05,425 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:15:10,425 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:17:09,358 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case initiated
+2017-11-17 23:17:09,753 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 23:17:39,454 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 23:17:40,588 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 23:17:40,781 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:17:45,782 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:17:46,051 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:17:46,217 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:17:46,378 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:17:51,380 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:17:51,571 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:17:53,271 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:17:58,272 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:18:10,034 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:18:15,034 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:18:15,173 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:18:20,174 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:18:20,536 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 23:18:36,422 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-17 23:18:37,077 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-17 23:18:37,077 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case Ended
+2017-11-17 23:34:14,166 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case3 logoutVerification Initiated
+2017-11-17 23:34:14,577 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Initiated
+2017-11-17 23:34:14,624 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 23:34:21,951 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 23:34:23,078 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 23:34:25,084 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:34:30,085 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:34:30,293 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:34:30,436 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:34:30,579 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:34:35,580 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:34:35,643 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-17 23:34:40,655 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:34:41,089 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 23:34:42,342 [main] INFO com.yash.poc.utils.UdemyReusables - Page Refreshed
+2017-11-17 23:34:42,342 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Ended
+2017-11-17 23:34:42,345 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case2 udemyValidUserSigninVerification Initiated
+2017-11-17 23:34:43,888 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 23:34:43,892 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 23:34:44,354 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:34:49,355 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:34:49,607 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:34:49,736 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:34:49,855 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:34:54,857 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:34:54,926 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-17 23:34:59,934 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:35:00,363 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 23:35:00,363 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case2 udemyInvalidUserSigninVerification Ended
+2017-11-17 23:36:07,008 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case2 udemyValidUserSigninVerification Initiated
+2017-11-17 23:36:07,397 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Initiated
+2017-11-17 23:36:07,443 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 23:36:13,038 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 23:36:14,158 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 23:36:50,701 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Initiated
+2017-11-17 23:36:51,103 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 23:37:20,391 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 23:37:21,518 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 23:37:21,711 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:37:26,712 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:37:26,993 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:37:27,120 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:37:27,256 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:37:32,257 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:37:32,314 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-17 23:37:37,324 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:37:37,734 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 23:37:39,160 [main] INFO com.yash.poc.utils.UdemyReusables - Page Refreshed
+2017-11-17 23:37:39,160 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Ended
+2017-11-17 23:37:39,163 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case2 udemyValidUserSigninVerification Initiated
+2017-11-17 23:37:40,795 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 23:37:40,799 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 23:37:41,229 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:37:46,229 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:37:46,441 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:37:46,586 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:37:46,691 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:37:51,692 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:37:51,779 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-17 23:37:56,789 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:37:57,223 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 23:37:57,224 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case2 udemyInvalidUserSigninVerification Ended
+2017-11-17 23:37:57,225 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case3 logoutVerification Initiated
+2017-11-17 23:38:09,959 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-17 23:38:14,960 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:38:15,281 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 23:38:15,346 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-17 23:38:16,011 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-17 23:38:16,012 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case3 logoutVerification Ended
+2017-11-17 23:49:29,140 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-17 23:49:29,533 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 23:49:59,552 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 23:50:00,684 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 23:50:00,893 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:50:05,893 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:50:06,193 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:50:06,363 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:50:06,485 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:50:11,485 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:50:11,666 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:50:13,122 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:50:18,122 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:50:30,070 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:50:35,072 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:50:35,191 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:50:40,193 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:50:40,595 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 23:50:45,595 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:50:45,667 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-17 23:50:47,135 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-17 23:50:47,798 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-17 23:50:47,799 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case Completed
+2017-11-17 23:51:25,400 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case initiated
+2017-11-17 23:51:25,786 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 23:51:32,055 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 23:51:33,181 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 23:51:34,795 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:51:39,796 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:51:40,023 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:51:40,164 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:51:40,316 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:51:45,317 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:51:45,525 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:51:47,142 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:51:52,143 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:52:01,317 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:52:06,317 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:52:35,063 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case initiated
+2017-11-17 23:52:35,449 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-17 23:52:42,208 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-17 23:52:43,333 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-17 23:52:44,494 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:52:49,496 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:52:49,724 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:52:49,876 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:52:50,010 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:52:55,012 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:52:55,224 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-17 23:52:56,650 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:53:01,651 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:53:11,004 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:53:16,005 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:53:16,133 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-17 23:53:21,135 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-17 23:53:21,499 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-17 23:53:37,372 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-17 23:53:38,021 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-17 23:53:38,021 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case Ended
+2017-11-18 01:00:17,433 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-18 01:00:17,834 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:00:24,243 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:00:25,369 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:00:26,607 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:00:31,607 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:00:31,896 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:00:32,081 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:00:32,246 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:00:37,246 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:00:37,460 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:00:39,436 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:00:44,437 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:03:23,252 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-18 01:03:23,626 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:03:54,531 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:03:55,680 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:03:55,869 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:04:00,873 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:04:01,129 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:04:01,267 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:04:01,401 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:04:06,402 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:04:06,589 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:04:08,234 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:04:13,244 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:06:02,204 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case initiated
+2017-11-18 01:06:02,579 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:06:33,986 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:06:35,137 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:06:35,317 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:06:40,325 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:06:40,592 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:06:40,746 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:06:40,874 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:06:45,875 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:06:46,048 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:06:47,799 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:06:52,799 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:08:37,980 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-18 01:08:38,371 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:08:44,380 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:08:45,507 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:08:46,409 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:08:51,415 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:08:51,653 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:08:51,816 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:08:51,947 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:08:56,959 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:08:57,164 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:08:58,856 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:09:03,866 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:09:08,685 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:09:13,685 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:09:13,802 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:09:18,818 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:09:19,226 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:09:24,233 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:09:24,297 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-18 01:09:25,785 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-18 01:09:26,430 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-18 01:09:26,430 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case Completed
+2017-11-18 01:09:49,507 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case initiated
+2017-11-18 01:09:49,898 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:10:19,691 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:10:20,839 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:10:21,036 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:10:26,043 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:10:26,283 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:10:26,461 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:10:26,585 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:10:31,589 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:10:31,764 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:10:33,521 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:10:38,536 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:10:40,180 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:10:45,194 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:10:45,326 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:10:50,327 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:10:50,689 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:11:17,271 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-18 01:11:17,928 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-18 01:11:17,928 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case Ended
+2017-11-18 01:11:21,932 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Initiated
+2017-11-18 01:11:22,307 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:11:51,183 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:11:52,335 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:11:52,535 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:11:57,548 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:11:57,825 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:11:58,001 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:11:58,150 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:12:03,164 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:12:03,227 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-18 01:12:08,238 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:12:08,664 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:12:10,007 [main] INFO com.yash.poc.utils.UdemyReusables - Page Refreshed
+2017-11-18 01:12:10,007 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Ended
+2017-11-18 01:12:10,011 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case2 udemyValidUserSigninVerification Initiated
+2017-11-18 01:12:11,428 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:12:11,432 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:12:11,910 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:12:16,911 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:12:17,146 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:12:17,307 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:12:17,420 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:12:22,421 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:12:22,499 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-18 01:12:27,510 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:12:27,943 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:12:27,943 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case2 udemyInvalidUserSigninVerification Ended
+2017-11-18 01:12:27,943 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case3 logoutVerification Initiated
+2017-11-18 01:12:40,642 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-18 01:12:45,653 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:12:45,949 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:12:46,012 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-18 01:12:46,684 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-18 01:12:46,687 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case3 logoutVerification Ended
+2017-11-18 01:13:34,353 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 inValidSingup Initiated
+2017-11-18 01:13:34,728 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:13:40,442 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:13:41,563 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:13:42,884 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:13:47,887 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:13:48,066 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:13:48,279 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:13:48,444 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:13:48,584 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:13:53,584 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:13:53,982 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:13:58,995 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:13:59,063 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-18 01:14:00,448 [main] INFO com.yash.poc.utils.UdemyReusables - Page Refreshed
+2017-11-18 01:14:05,460 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:14:05,463 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 InvalidSignup Initiated
+2017-11-18 01:14:05,464 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case2 validSingup Initiated
+2017-11-18 01:14:05,583 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:14:10,595 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:14:10,743 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:14:10,949 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:14:11,059 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:14:11,164 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:14:16,173 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:14:16,599 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:14:16,736 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-18 01:14:17,370 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-18 01:14:17,372 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case2 validSingup Initiated
+2017-11-18 01:27:01,419 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 inValidSingup Initiated
+2017-11-18 01:27:01,794 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:27:07,549 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:27:08,689 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:27:10,239 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:27:15,241 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:27:15,399 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:27:15,676 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:27:15,814 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:27:15,935 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:27:20,936 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:27:21,360 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:27:26,369 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:27:26,431 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-18 01:27:27,773 [main] INFO com.yash.poc.utils.UdemyReusables - Page Refreshed
+2017-11-18 01:27:32,789 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:27:32,792 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 InvalidSignup Initiated
+2017-11-18 01:27:32,793 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case2 validSingup Initiated
+2017-11-18 01:27:32,897 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:27:37,904 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:27:38,037 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:27:38,235 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:27:38,347 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:27:38,453 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:27:43,454 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:27:43,792 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:27:43,839 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Initiated
+2017-11-18 01:27:43,855 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:27:49,648 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:27:50,769 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:27:51,838 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:27:56,838 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:27:57,053 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:27:57,166 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:27:57,281 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:28:02,282 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:28:02,347 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-18 01:28:07,354 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:30:20,847 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-18 01:30:21,222 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:30:27,276 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:30:28,399 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:30:28,962 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:30:33,971 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:30:34,223 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:30:34,390 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:30:34,517 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:30:39,518 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:30:39,746 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:30:41,378 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:30:46,379 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:30:46,428 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case initiated
+2017-11-18 01:30:46,443 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:30:52,018 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:30:53,143 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:30:54,431 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:30:59,443 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:30:59,659 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:30:59,790 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:30:59,902 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:31:04,902 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:31:05,099 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:31:06,682 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:31:11,694 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:31:11,727 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Initiated
+2017-11-18 01:31:11,743 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:31:40,713 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:31:41,841 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:31:41,994 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:31:46,997 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:31:47,222 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:31:47,365 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:31:47,481 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:31:52,494 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:31:52,559 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-18 01:31:57,572 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:31:58,023 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:31:59,292 [main] INFO com.yash.poc.utils.UdemyReusables - Page Refreshed
+2017-11-18 01:31:59,292 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Ended
+2017-11-18 01:31:59,294 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 inValidSingup Initiated
+2017-11-18 01:31:59,309 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:32:28,751 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:32:29,888 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:32:30,049 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:32:35,055 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:32:35,200 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:32:35,411 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:32:35,535 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:32:35,679 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:32:40,679 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:32:41,066 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:32:46,073 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:32:46,122 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-18 01:32:47,437 [main] INFO com.yash.poc.utils.UdemyReusables - Page Refreshed
+2017-11-18 01:32:52,442 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:32:52,443 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 InvalidSignup Initiated
+2017-11-18 01:32:52,445 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case2 validSingup Initiated
+2017-11-18 01:32:52,553 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:32:57,555 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:32:57,689 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:32:57,873 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:32:57,976 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:32:58,088 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:33:03,090 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:33:03,463 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:33:03,494 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case2 udemyValidUserSigninVerification Initiated
+2017-11-18 01:33:04,844 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:35:09,696 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-18 01:35:10,078 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:37:36,755 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-18 01:37:37,132 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:38:07,864 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:38:09,022 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:38:09,207 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:38:14,212 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:38:14,521 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:38:14,683 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:38:14,815 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:38:19,815 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:38:20,001 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:38:21,563 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:38:26,565 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:38:38,393 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:38:43,394 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:38:43,517 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:38:48,518 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:38:48,929 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:38:53,930 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:38:53,994 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-18 01:38:55,719 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-18 01:38:56,382 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-18 01:38:56,382 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case Completed
+2017-11-18 01:38:56,382 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case initiated
+2017-11-18 01:38:56,398 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:39:01,565 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:39:02,684 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:39:02,936 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:39:07,946 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:39:08,188 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:39:08,356 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:39:08,472 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:39:13,474 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:39:13,641 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:39:15,187 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:39:20,195 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:39:20,249 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Initiated
+2017-11-18 01:39:20,251 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:39:25,899 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:39:27,020 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:39:28,433 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:39:33,435 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:39:33,662 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:39:33,769 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:39:33,882 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:39:38,883 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:39:38,938 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-18 01:39:43,945 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:39:44,345 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:39:45,624 [main] INFO com.yash.poc.utils.UdemyReusables - Page Refreshed
+2017-11-18 01:39:45,624 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Ended
+2017-11-18 01:39:45,625 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 inValidSingup Initiated
+2017-11-18 01:39:45,638 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-18 01:39:51,852 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:39:52,976 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:39:54,401 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:39:59,403 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:39:59,551 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:39:59,799 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:39:59,911 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:40:00,032 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:40:05,043 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:40:05,443 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:40:10,445 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:40:10,501 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-18 01:40:11,754 [main] INFO com.yash.poc.utils.UdemyReusables - Page Refreshed
+2017-11-18 01:40:16,766 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:40:16,766 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 InvalidSignup Initiated
+2017-11-18 01:40:16,768 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case2 validSingup Initiated
+2017-11-18 01:40:16,871 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:40:21,884 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:40:22,012 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:40:22,206 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:40:22,316 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:40:22,414 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:40:27,421 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:40:27,834 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:40:27,970 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-18 01:40:28,619 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-18 01:40:28,620 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case2 validSingup Initiated
+2017-11-18 01:40:28,621 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case2 udemyValidUserSigninVerification Initiated
+2017-11-18 01:40:29,944 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-18 01:40:29,947 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-18 01:40:30,546 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:40:35,550 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:40:35,781 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:40:35,910 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-18 01:40:36,009 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-18 01:40:41,010 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:40:41,090 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-18 01:40:46,102 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-18 01:40:46,534 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-18 01:40:46,534 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case2 udemyInvalidUserSigninVerification Ended
+2017-11-18 01:40:46,534 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case3 logoutVerification Initiated
+2017-11-18 01:40:59,360 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-18 01:41:04,367 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:01:37,801 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-22 21:01:38,196 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-22 21:01:49,933 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-22 21:01:51,053 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-22 21:01:51,166 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case initiated
+2017-11-22 21:01:51,197 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-22 21:01:58,570 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-22 21:01:59,706 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-22 21:01:59,770 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Initiated
+2017-11-22 21:01:59,796 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-22 21:02:10,694 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-22 21:02:11,811 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-22 21:02:11,877 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 inValidSingup Initiated
+2017-11-22 21:02:11,894 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-22 21:02:18,913 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-22 21:02:24,932 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-22 21:02:24,940 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case2 validSingup Initiated
+2017-11-22 21:02:26,703 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case initiated
+2017-11-22 21:02:27,097 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-22 21:02:56,993 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-22 21:02:58,120 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-22 21:02:59,845 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:03:04,846 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:03:05,163 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:03:05,321 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:03:05,454 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:03:10,454 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:03:10,650 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:03:12,473 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:03:17,473 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:03:29,360 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:03:34,360 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:03:34,487 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:03:39,489 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:03:39,832 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-22 21:03:44,833 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:03:44,895 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-22 21:03:46,384 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-22 21:03:47,048 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-22 21:03:47,049 [main] INFO com.yash.poc.executionengine.AddCourseToCart - addCourseToCart Case Completed
+2017-11-22 21:03:47,055 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case initiated
+2017-11-22 21:03:47,070 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-22 21:04:15,949 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-22 21:04:17,071 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-22 21:04:18,599 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:04:23,600 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:04:23,873 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:04:24,013 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:04:24,131 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:04:29,131 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:04:29,339 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:04:30,726 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:04:35,726 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:04:48,065 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:04:53,065 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:04:53,191 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:04:58,192 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:04:58,572 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-22 21:05:14,449 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-22 21:05:15,108 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-22 21:05:15,109 [main] INFO com.yash.poc.executionengine.AddCourseToWishList - addCourseToWishlist Case Ended
+2017-11-22 21:05:15,115 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Initiated
+2017-11-22 21:05:15,142 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-22 21:05:44,652 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-22 21:05:45,775 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-22 21:05:46,993 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:05:51,994 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:05:52,203 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:05:52,310 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:05:52,429 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:05:57,430 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:05:57,488 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-22 21:06:02,494 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:06:02,871 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-22 21:06:04,283 [main] INFO com.yash.poc.utils.UdemyReusables - Page Refreshed
+2017-11-22 21:06:04,283 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case1 udemyInvalidUserSigninVerification Ended
+2017-11-22 21:06:04,285 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 inValidSingup Initiated
+2017-11-22 21:06:04,297 [main] INFO com.yash.poc.utils.UdemyReusables - chrome browser selected
+2017-11-22 21:06:37,396 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-22 21:06:38,517 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-22 21:06:40,226 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:06:45,227 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:06:45,368 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:06:45,617 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:06:45,741 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:06:45,853 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:06:50,853 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:06:51,239 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-22 21:06:56,239 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:06:56,299 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-22 21:06:57,627 [main] INFO com.yash.poc.utils.UdemyReusables - Page Refreshed
+2017-11-22 21:07:02,628 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:07:02,628 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case1 InvalidSignup Initiated
+2017-11-22 21:07:02,633 [main] INFO com.yash.poc.executionengine.LoginAndLogout - SignUp Case2 validSingup Initiated
+2017-11-22 21:07:02,747 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:07:07,749 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:07:07,893 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:07:08,089 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:07:08,198 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:07:08,311 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:07:13,312 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:07:13,680 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-22 21:07:13,719 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case2 udemyValidUserSigninVerification Initiated
+2017-11-22 21:07:14,997 [main] INFO com.yash.poc.utils.UdemyReusables - redirected to the url
+2017-11-22 21:07:14,999 [main] INFO com.yash.poc.utils.UdemyReusables - window maximized
+2017-11-22 21:07:17,291 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:07:22,292 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:07:22,504 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:07:22,632 [main] INFO com.yash.poc.utils.UdemyReusables - Typed key to field
+2017-11-22 21:07:22,736 [main] INFO com.yash.poc.utils.UdemyReusables - Element Clicked
+2017-11-22 21:07:27,736 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:07:27,816 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-22 21:07:32,823 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:07:33,265 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-22 21:07:33,265 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case2 udemyInvalidUserSigninVerification Ended
+2017-11-22 21:07:33,267 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case3 logoutVerification Initiated
+2017-11-22 21:07:46,318 [main] INFO com.yash.poc.utils.UdemyReusables - loggedout from account
+2017-11-22 21:07:51,319 [main] INFO com.yash.poc.utils.UdemyReusables - Waiting
+2017-11-22 21:07:51,629 [main] INFO com.yash.poc.utils.UdemyReusables - captured the screenshot
+2017-11-22 21:07:51,684 [main] INFO com.yash.poc.utils.UdemyReusables - getting text from element
+2017-11-22 21:07:52,354 [main] INFO com.yash.poc.utils.UdemyReusables - Browser quit
+2017-11-22 21:07:52,355 [main] INFO com.yash.poc.executionengine.LoginAndLogout - Login Case3 logoutVerification Ended

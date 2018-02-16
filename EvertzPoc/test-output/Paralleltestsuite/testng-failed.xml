@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Paralleltestsuite]">
+  <test name="Regression for POC(failed)">
+    <classes>
+      <class name="com.yash.poc.executionengine.AddCourseToWishList">
+        <methods>
+          <include name="addCourseToWishlist"/>
+        </methods>
+      </class> <!-- com.yash.poc.executionengine.AddCourseToWishList -->
+    </classes>
+  </test> <!-- Regression for POC(failed) -->
+</suite> <!-- Failed suite [Paralleltestsuite] -->
